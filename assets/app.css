@@ -1,0 +1,129 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+body {
+  line-height: 1; }
+
+ol, ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after {
+  content: "";
+  content: none; }
+
+q:before, q:after {
+  content: "";
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+.alignleft {
+  float: left;
+  margin: 0 15px 15px 0; }
+@media (max-width: 768px) {
+  .alignleft {
+    position: relative;
+    display: block;
+    margin: 0 auto; } }
+
+.alignright {
+  float: right;
+  margin: 0 0px 15px 15px; }
+@media (max-width: 768px) {
+  .alignright {
+    position: relative;
+    display: block;
+    margin: 0 auto; } }
+
+.aligncenter {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+  text-align: center; }
+
+strong, em {
+  font-weight: bold; }
+
+i, em {
+  font-style: italic; }
+
+/* Font */
+html {
+  font-family: "Oxygen", Arial, Sans-serif; }
+
+body {
+  font-family: "Oxygen", Arial, Sans-serif;
+  color: #222;
+  background: #CCC;
+  line-height: 1.5em;
+  overflow-x: hidden; }
+
+h1, h2, h3, h4, h5, h6 {
+  text-rendering: optimizeLegibility;
+  line-height: 1;
+  margin-top: 0;
+  font-weight: normal;
+  font-family: "Oxygen", Arial, Sans-serif;
+  font-weight: normal; }
+
+.tera {
+  font-size: 117px;
+  font-size: 6.5rem;
+  margin-bottom: 0.25385rem; }
+
+.giga {
+  font-size: 90px;
+  font-size: 5rem;
+  margin-bottom: 0.33rem; }
+
+.mega {
+  font-size: 72px;
+  font-size: 4rem;
+  margin-bottom: 0.4125rem; }
+
+h1, .alpha {
+  font-size: 60px;
+  font-size: 3.33333rem;
+  margin-bottom: 0.495rem; }
+
+h2, .beta {
+  font-size: 48px;
+  font-size: 2.66667rem;
+  margin-bottom: 0.61875rem; }
+
+h3, .gamma {
+  font-size: 36px;
+  font-size: 2rem;
+  margin-bottom: 0.825rem; }
+
+h4, .delta {
+  font-size: 24px;
+  font-size: 1.33333rem;
+  margin-bottom: 1.2375rem; }
+
+h5, .epsilon {
+  font-size: 21px;
+  font-size: 1.16667rem;
+  margin-bottom: 1.41429rem; }
+
+h6, .zeta {
+  font-size: 18px;
+  font-size: 1rem; }
+
+p {
+  margin-bottom: 1.5em; }
+
+/*# sourceMappingURL=app.css.map */
